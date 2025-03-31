@@ -1,0 +1,10 @@
+name: SendLocation
+version: '1.0-SNAPSHOT'
+main: ow.sendlocation.SendLocation
+api-version: '1.13'
+description: "Sends your current coordinates"
+author: OwPor
+commands:
+  sc:
+    description: "This command shares the player's location to the chat."
+    usage: /<command>
